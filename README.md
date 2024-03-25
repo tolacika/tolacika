@@ -1,6 +1,4 @@
-Dedicated Senior Web Developer with 9+ years of experience in various programming languages and technologies. I have a deep knowledge of PHP, with a special emphasis on Laravel, as well as extensive experience in a variety of other languages and platforms. I'm a persistent team player with a passion for process streamlining and creating efficient applications. My objective is to bring these skills and my professional curiosity to a Senior Web Developer position.
-
-My current CV is available [here (PDF, 607.3 kB)](Marshall%20Laszlo%20Toth%20-%20CV%20en%2020230726.pdf?raw=1)
+Dedicated Senior Web Developer with a decade of experience in various programming languages and technologies. I have a deep knowledge of PHP, with a special emphasis on Laravel, as well as extensive experience in a variety of other languages and platforms. I'm a persistent team player with a passion for process streamlining and creating efficient applications. 
 <!--
 **tolacika/tolacika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
